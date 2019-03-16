@@ -1,6 +1,6 @@
 # CarND Object Detection Lab
 
-![](assets/ssd_fasterrcnn.gif)
+<img src="assets/ssd_fasterrcnn.gif" alt="result" width="600"/>
 
 In lab this you will:
 
